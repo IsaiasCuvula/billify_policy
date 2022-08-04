@@ -1,11 +1,5 @@
 ## Privacy Policy
 
-How we may use the information we collect
-We use the information in the following ways:
-
-Information you supply to us. We will use this information:
-1. To provide you with information and/or services that you request from us, by creating your account on the app;
-
 You will supply your email address, username, and password to create your account that's it. Just to create your account! 
 
 We do not rent, sell or share personal information about you with other people or non-affiliated companies.
