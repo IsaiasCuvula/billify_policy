@@ -6,7 +6,7 @@ Create new bills with a due date & time, automated or customized category, amoun
 
 Get weekly, monthly and yearly reports of your bills and what categories they fall under. Have an overview of what category takes the most portion of your expenses, and an overview of how often you paid bills.
 
-# Billiffy
+### With Billiffy You can: 
 1. Pay bills at the most convenient time.
 2. Categorize your bills accordingly.
 3. Keep track of your expenses.
