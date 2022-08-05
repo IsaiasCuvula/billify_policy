@@ -1,4 +1,4 @@
-## Billify Privacy Policy
+## Privacy Policy
 
 You will supply your email address, username, and password to create your account that's it. Just to create your account! 
 
